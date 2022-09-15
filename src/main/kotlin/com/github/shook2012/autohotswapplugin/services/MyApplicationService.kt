@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shook2012.autohotswapplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shook2012.autohotswapplugin.MyBundle
 
 class MyApplicationService {
 
